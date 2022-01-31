@@ -1,7 +1,7 @@
 # Twitter-Scraping-App
 A simple app to scrap data from Twitter.
 
-![screenshot of the Twitter Scraper App]("images/screenshot.png")
+![screenshot of the Twitter Scraper App]("/images/screenshot.png")
 
 
 ## Available Features
