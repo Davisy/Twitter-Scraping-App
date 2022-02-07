@@ -30,3 +30,7 @@ To access and use the application,donwoload or clone the reposityr and then run 
 > streamlit run app.py
 
 Finally browse the link provided in your browser.
+
+## HuggingFace Space
+
+The application has been deployed in the huggingface space.You can access here: [https://huggingface.co/spaces/Davis/twitter_scraper](https://huggingface.co/spaces/Davis/twitter_scraper)
